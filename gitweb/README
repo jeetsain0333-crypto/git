@@ -6,8 +6,8 @@ From the git version 1.4.0 gitweb is bundled with git.
 
 Build time gitweb configuration
 -------------------------------
-There are many configuration variables which affect building gitweb (among
-others creating gitweb.cgi out of gitweb.perl by replacing placeholders such
+There are many configuration the  variables which are  affect building gitweb (among
+the others & creating gitweb.cgi out of the gitweb.perl by replacing placeholders such
 as `++GIT_BINDIR++` by their build-time values).
 
 Building and installing gitweb is described in gitweb's INSTALL file
